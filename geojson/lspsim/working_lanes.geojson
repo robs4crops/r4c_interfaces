@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772115793318044,
+              37.943791066291894
+            ],
+            [
+              22.771576839759803,
+              37.943373148297695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.77213838995345,
+              37.94377487397591
+            ],
+            [
+              22.77159932500758,
+              37.9433569508236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.77216110333548,
+              37.94375795198994
+            ],
+            [
+              22.7716234607795,
+              37.94333930631457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772183592610467,
+              37.94374131144489
+            ],
+            [
+              22.77164624837044,
+              37.943322519606745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772206787169313,
+              37.94372409432626
+            ],
+            [
+              22.771667898976272,
+              37.94330635773163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772228874997268,
+              37.94370849257263
+            ],
+            [
+              22.77169107608086,
+              37.943289615427005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772251376679577,
+              37.9436920387321
+            ],
+            [
+              22.771716761989488,
+              37.94327048256248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772277102943022,
+              37.9436735733528
+            ],
+            [
+              22.77173924958219,
+              37.94325449585436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.772299830414834,
+              37.94365608422869
+            ],
+            [
+              22.77176333693782,
+              37.943236624193794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              22.77232136763852,
+              37.943640844346206
+            ],
+            [
+              22.77178683717472,
+              37.94322000914538
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
